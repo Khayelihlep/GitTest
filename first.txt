@@ -6,3 +6,6 @@ public class First
   }
   
 }
+we learning update command"[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D"
+
+
